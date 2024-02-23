@@ -1,9 +1,30 @@
-### Hi there 👋
-
-
--  I’m currently working on Javascript,HTML and CSS.
+# Hello, I'm Hatice Kartal 👋
 
 
 
-- 📫 How to reach me: haticetamdeger@gmail.com
+## About Me
+
+- 🎓 Graduated in Süleyman Demirel Üniversitesi.
+- 💼 Currently working at Front-end and react.
+
+## Skills and Tools
+
+- 💻 HTML , CSS , JavaScript 
+
+## Projects
+
+- 🚀 [Netflix Clone]: https://github.com/h-attam/Netflix-Clone-Project
+- 🌟 [Amazon Clone]: https://github.com/h-attam/Amazon-Clone
+
+## Contact
+
+- 📧 Email: haticetamdeger@gmail.com
+
+## Social Media
+
+- 📷 Instagram: https://www.instagram.com/h_aticekartal?igsh=eDN1Mzdia3BoZ2Vp
+
+
+⭐️ [Follow me] https://github.com/h-attam  for updates on my projects!
+
 
