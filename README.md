@@ -9,7 +9,7 @@
 
 ## Skills and Tools
 
-- 💻 HTML , CSS , JavaScript 
+- 💻 HTML , CSS , JavaScript , Bootstrap
 
 ## Projects
 
