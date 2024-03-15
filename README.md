@@ -25,6 +25,6 @@
 - 📷 Instagram: https://www.instagram.com/h_aticekartal?igsh=eDN1Mzdia3BoZ2Vp
 
 
-⭐️ [Follow me] https://github.com/h-attam  for updates on my projects!
+-⭐️ [Follow me] https://github.com/h-attam  for updates on my projects!
 
 
