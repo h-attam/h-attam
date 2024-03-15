@@ -6,7 +6,7 @@
 
 - 🎓 Graduated in Süleyman Demirel Üniversitesi.
 - 💼 Currently working at Front-end and react.
-
+- 🤝🏻 I am open to job offers.
 ## Skills and Tools
 
 - 💻 HTML , CSS , SCSS, JavaScript, Bootstrap
