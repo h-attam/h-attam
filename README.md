@@ -1,4 +1,4 @@
-<p align="left"># Hello, I'm Hatice Kartal 👋<br><br><br><br>## About Me<br><br>- 🎓 Graduated in Süleyman Demirel University.<br>- 💼 Currently working at Front-end and react.<br>- 🤝🏻 I am open to job offers.</p>
+<p align="left">## About Me 👋<br><br><br><br> Hello, I'm Hatice Kartal<br><br>- 🎓 Graduated in Süleyman Demirel University.<br>- 💼 Currently working at Front-end and react.<br>- 🤝🏻 I am open to job offers.</p>
 
 <p align="left">## Languages and Tools </p>
 
@@ -20,13 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/hattamm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hattamm&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
