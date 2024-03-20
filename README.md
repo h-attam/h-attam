@@ -1,30 +1,39 @@
-# Hello, I'm Hatice Kartal 👋
+<p align="left"># Hello, I'm Hatice Kartal 👋<br><br><br><br>## About Me<br><br>- 🎓 Graduated in Süleyman Demirel University.<br>- 💼 Currently working at Front-end and react.<br>- 🤝🏻 I am open to job offers.</p>
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-## About Me
+###
 
-- 🎓 Graduated in Süleyman Demirel Üniversitesi.
-- 💼 Currently working at Front-end and react.
-- 🤝🏻 I am open to job offers.
-## Skills and Tools
+<div align="center">
+  <a href="https://open.spotify.com/user/hattamm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hattamm&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
-- 💻 HTML , CSS , SCSS, JavaScript, Bootstrap
+###
 
-## Projects
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
 
-- 🚀 [Netflix Clone]: https://github.com/h-attam/Netflix-Clone-Project
-- 🌟 [Amazon Clone]: https://github.com/h-attam/Amazon-Clone
-
-## Contact
-
-- 📧 Email: haticetamdeger@gmail.com
-
-## Social Media
-
-- 📷 Instagram: https://www.instagram.com/h_aticekartal?igsh=eDN1Mzdia3BoZ2Vp
-
-
-- ⭐️ [Follow me] https://github.com/h-attam  for updates on my projects!
+###
 
 
