@@ -22,7 +22,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/hattamm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=hattamm&count=1&unique=true" alt="Spotify recently played"  />
   </a>
