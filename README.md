@@ -1,7 +1,6 @@
 <p align="left"># Hello, I'm Hatice Kartal 👋<br><br><br><br>## About Me<br><br>- 🎓 Graduated in Süleyman Demirel University.<br>- 💼 Currently working at Front-end and react.<br>- 🤝🏻 I am open to job offers.</p>
 
 <p align="left">## Languages and Tools </p>
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
