@@ -1,4 +1,4 @@
-<p align="left"><font size="30px">Hello,I'm Hatice Kartal 👋</font></p><p align="left"><br><br> About Me<br><br>-  🎓 Graduated in Süleyman Demirel University.<br>- 💼 Currently working at Front-end and react.<br>- 🤝🏻 I am open to job offers.</p><br>
+<p align="left"><font size="30px">Hello,I'm Hatice Kartal 👋</font></p><p align="left"><br> About Me<br><br>-  🎓 Graduated in Süleyman Demirel University.<br>- 💼 Currently working at Front-end and react.<br>- 🤝🏻 I am open to job offers.</p><br>
 
 <p align="left"> Languages and Tools </p><br>
 
@@ -21,7 +21,7 @@
 </div><br><br>
 
 
-<p align="left"> Connect With Me </p>
+<p align="left"> Connect With Me </p><br>
 
 <div align="left">
  <a href="https://www.instagram.com/h_aticekartal">
