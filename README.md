@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">About Me
+### <div align="left">About Me
 </div>  
   
 
