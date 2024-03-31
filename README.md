@@ -51,14 +51,14 @@
 
 
 ## Connect with me  
-<a href="https://github.com/https://github.com/h-attam" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hatice-kartal-3b06642a8/" target="_blank">
+<a href="https://linkedin.com/in/hatice-kartal-3b06642a8" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/h_aticekartal?igsh=eDN1Mzdia3BoZ2Vp" target="_blank">
+<a href="https://instagram.com/h_aticekartal" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/h-attam" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
 
@@ -88,20 +88,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-<p align="left"> Connect With Me </p><br>
-
-<div align="left">
- <a href="https://www.instagram.com/h_aticekartal">
-   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
- </a>
-
- 
-
-</div>
-
-
-###
-
-
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Prof
