@@ -14,7 +14,10 @@
 -  💼 Currently working at Front-end and react.  
   
 
-- 🤝🏻 I am open to job offers.  
+- 🤝🏻 I am open to job offers.
+  
+- ⭐️ [Follow me] for updates on my projects!
+
   
 
 <br/>  
