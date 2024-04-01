@@ -1,6 +1,7 @@
 ### Hello,I'm Hatice Kartal 👋  
 <div align="center">
-<img src="https://giphy.com/embed/4GaHBQh3f4jBEpbQvP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2422250350101248810/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="center" style="width: 100%" />
+
 </div>  
   
 
