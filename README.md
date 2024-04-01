@@ -1,6 +1,6 @@
 ### Hello,I'm Hatice Kartal 👋  
 <div align="center">
-<img src="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-4GaHBQh3f4jBEpbQvP" alt="Örnek Resim"/>
+<img src=<iframe src="https://giphy.com/embed/4GaHBQh3f4jBEpbQvP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shecodesio-swipe-up-computer-congratulations-4GaHBQh3f4jBEpbQvP">via GIPHY</a></p>/>
 </div>  
   
 
