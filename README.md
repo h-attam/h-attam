@@ -48,7 +48,7 @@
 <br/>  
 
 
-## Connect with me  
+## 🌐Connect with me  
 <a href="https://linkedin.com/in/hatice-kartal-3b06642a8" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -57,6 +57,9 @@
 </a>
 <a href="https://github.com/h-attam" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/h-attam](https://medium.com/@https://medium.com/@haticetamdeger" target="_blank">
+<img src=[https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)" />
 </a>  
   
 
