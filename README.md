@@ -28,6 +28,7 @@
 
 
 
+<br/>  
 
 ## 🌐Connect with me  
 <a href="https://linkedin.com/in/hatice-kartal-3b06642a8" target="_blank">
@@ -44,6 +45,7 @@
 
 <br/>  
 
+<br/>  
 
 
 
