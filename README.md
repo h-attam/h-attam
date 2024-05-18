@@ -58,9 +58,7 @@
 <a href="https://github.com/h-attam" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@https://medium.com/@haticetamdeger" target="_blank">
-<img src=[https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)" />
-</a>  
+
   
 
 <br/>  
