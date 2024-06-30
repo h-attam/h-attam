@@ -59,7 +59,7 @@
 <br/>  
 
 <div align="center">
-<img src="[https://steamuserimages-a.akamaihd.net/ugc/2422250350101248810/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="center" style="width: 100%](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)" />
+<img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" />
 
 </div>  
 <br/>  
