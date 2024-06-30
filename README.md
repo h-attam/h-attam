@@ -53,9 +53,16 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=h-attam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=h-attam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=h-attam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br/>  
+
+<div align="center">
+<img src="[https://steamuserimages-a.akamaihd.net/ugc/2422250350101248810/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="center" style="width: 100%](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)" />
+
+</div>  
+<br/>  
 
 
 
