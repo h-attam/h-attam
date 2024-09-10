@@ -15,7 +15,7 @@
 -  🎓 Graduated in Süleyman Demirel University.  
   
 
--  💼 Currently working at Front-end and react.  
+-  💼 Currently working at Front-end and react-native.  
   
 
 - 🤝🏻 I am open to job offers.
