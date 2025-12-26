@@ -75,6 +75,6 @@
 
 
 
-github status kızmı görünmüyor düzelt
+
 
 
