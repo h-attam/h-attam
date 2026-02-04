@@ -1,4 +1,4 @@
-###  <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EA043&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Hatice+Kartal" alt="Typing SVG" /></p> 👋 
+###  <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EA043&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Hatice+Kartal" alt="Typing SVG" /></p> 
 <br/>  
 
 <div align="center">
