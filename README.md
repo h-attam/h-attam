@@ -73,6 +73,7 @@
 
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=h-attam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
+![h-attam'ın Aktivite Grafiği](https://github-readme-activity-graph.vercel.app/graph?username=h-attam&theme=tokyo-night)
 
 
 
