@@ -70,7 +70,7 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=h-attam&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=h-attam&show_icons=true&theme=tokyonight&count_private=true)
 
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=h-attam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
