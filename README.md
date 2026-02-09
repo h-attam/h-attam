@@ -1,4 +1,4 @@
-###  <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EA043&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Hatice+Kartal" alt="Typing SVG" /></p> 
+### Hello,I'm Hatice Kartal 👋 
 <br/>  
 
 <div align="center">
@@ -52,18 +52,22 @@
 </a>
 <br/>
 
-<br/> 
+<br/>  
+
+<div align="left">
+<img src="https://private-user-images.githubusercontent.com/74038190/240904074-324065af-8ea3-453a-83a3-66ccba5797fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk3Nzg4MjMsIm5iZiI6MTcxOTc3ODUyMywicGF0aCI6Ii83NDAzODE5MC8yNDA5MDQwNzQtMzI0MDY1YWYtOGVhMy00NTNhLTgzYTMtNjZjY2JhNTc5N2ZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjMwVDIwMTUyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQwNjJkM2VmNzcxNjBiYTFmNjFiNGNhMTk5OTNkMjkxZmJiODcyNDM0MDcxMjE1MTNiZmJhMWVlYTkxYWFiNDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.viWpR6xEpeLDU4BRqhUJfOV0A3mesb610wQop74OIkQ" />
+
+</div>  
+<br/>  
+
+  
+
+<br/>  
+
+<br/>  
+
 
 
 ## 📊 GitHub Stats:
 
-
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=h-attam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
-
-![h-attam GitHub Aktivite Grafiği](https://github-readme-activity-graph.vercel.app/graph?username=h-attam&theme=github-compact)
-
-
-
-
-
-
